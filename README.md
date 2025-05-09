@@ -38,8 +38,8 @@ SoftSell is a state-of-the-art platform designed to help businesses maximize the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/softsell-license-flow.git
-   cd softsell-license-flow
+   git clone git remote add origin https://github.com/Arkaprabha13/Credex_softsell_demo.git
+   
    ```
 
 2. Install dependencies:
